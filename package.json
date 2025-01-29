@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "18.3.1",
     "react-native": "0.76.6",
-    "react-native-video": "^6.9.1"
+    "react-native-video": "^6.10.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
